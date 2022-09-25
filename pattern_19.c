@@ -8,7 +8,7 @@ int main()
 	{
 		for(j=0;j<19;j++)
 		{
-			if((j>=2-i&&j<=6+i)||(j>=13-i&&j<=16+i))
+			if((j>=2-i&&j<=6+i)||(j>=12-i&&j<=16+i))
 			printf("*");
 			else
 			printf(" ");
